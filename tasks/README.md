@@ -16,4 +16,4 @@
 # Создание собственных распределений в Python
 - [9. Создание собственных распределений в Python ](09_own_distribution/README.md)
 #  Исследование зависимости плотности от параметров НСВ в Python
--[10. Исследование зависимости плотности от параметров НСВ в Python ](10_study_of_the_distribution_of_CRV/README.md)
+- [10. Исследование зависимости плотности от параметров НСВ в Python ](10_study_of_the_distribution_of_CRV/README.md)
